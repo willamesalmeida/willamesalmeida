@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">Meu nome é willames, sou desenvolvedor há alguns anos, me formei como cientista da computação pela queridinha Universidade Federal de Alagoas(UFAL)</p>
-<p>possuo conhecimento em algumas linguagens de programação que logo mais falarei sobre</p>
+<p align="left">Meu chamo willames, sou desenvolvedor há alguns anos, me formei como cientista da computação pela queridinha Universidade Federal de Alagoas(UFAL), <br> possuo conhecimento em algumas linguagens de programação e algumas tecnologia que logo mais falarei sobre. Sou de </p>
 
 ###
 
@@ -45,3 +44,33 @@ Here are some ideas to get you started:
 </div>
 
 ###
+
+
+Sobre Mim
+👋 Olá! Sou desenvolvedor com alguns anos de experiência, formado em Ciência da Computação pela Universidade Federal de Alagoas (UFAL). Tenho uma base sólida em desenvolvimento, design e eletrônica, com conhecimentos em diversas áreas da computação e um grande interesse por novas tecnologias. Confira abaixo um resumo das minhas habilidades e conhecimentos.
+
+🖥️ Habilidades em Programação
+Tenho experiência com várias linguagens e tecnologias, incluindo:
+
+Linguagens de Programação: Python, JavaScript, Node.js, C++, C#, Assembly.
+Bibliotecas e Frameworks:
+Frontend: ReactJS, React Native
+Backend: Express, Three.js
+Bancos de Dados: MySQL, SQLite, MongoDB
+Serviços em Nuvem: AWS
+🎨 Design e UI/UX
+Possuo conhecimentos em UI/UX e estou familiarizado com as seguintes ferramentas:
+
+Ferramentas de Design e Prototipagem: Figma, Adobe XD, Adobe Photoshop, CorelDRAW
+Edição de Vídeo: Vegas Pro
+Modelagem e Animação 3D: Blender 3D
+🔍 Inteligência Artificial e Machine Learning
+Tenho um conhecimento introdutório em Machine Learning e Inteligência Artificial, explorando algoritmos básicos e aplicações em projetos pessoais.
+
+🛠️ Experiência em Eletrônica
+Possuo experiência em eletrônica analógica e digital, com vários anos de atuação em manutenção e reparo de placas de computadores, notebooks e outros dispositivos eletrônicos.
+
+🔒 Segurança da Informação
+Possuo conhecimento introdutório em ethical hacking e pentest, permitindo-me entender os fundamentos e práticas básicas de segurança em sistemas e redes.
+
+Estou sempre aberto a novos desafios e oportunidades. Sinta-se à vontade para explorar meus repositórios e entrar em contato!
