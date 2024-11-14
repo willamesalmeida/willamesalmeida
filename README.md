@@ -99,7 +99,7 @@ Tenho um conhecimento introdutório em **Machine Learning** e **Inteligência Ar
 
 ## 🛠️ Experiência em Eletrônica
 
-Possuo experiência em eletrônica analógica e digital, com vários anos de atuação em **manutenção e reparo de placas** de computadores, notebooks e outros dispositivos eletrônicos.
+Possuo experiência em eletrônica analógica e digital, com vários anos de atuação em **manutenção e reparo de placas** de computadores, notebooks e outros dispositivos eletrônicos. Além disso, tenho um conhecimento introdutório em **Arduino**, explorando projetos simples de automação e controle de dispositivos eletrônicos.
 
 ## 🔒 Segurança da Informação
 
